@@ -6,12 +6,8 @@ Filter through thousands of Netflix genres
 
 ## About
 
-<!-- BEGIN ABOUT -->
-
 Run `flixgen` to filter through thousands of Netflix genres. ↵ opens it in the default web browser.
 
-![](https://i.imgur.com/WazS80m.png)
-
-<!-- END ABOUT -->
+![Alfred search for flixgen animat](Workflow/images/about/flixgenanimat.png)
 
 <a href='https://github.com/alfredapp/streaming-genres-workflow/releases/latest/download/Streaming.Genres.alfredworkflow'>⤓ Download Workflow</a>
