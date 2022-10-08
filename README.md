@@ -6,7 +6,9 @@ Filter through thousands of Netflix genres
 
 ## About
 
-Run `flixgen` to filter through thousands of Netflix genres. ↩ opens it in the default web browser.
+## Usage
+
+Run the Genres Keyword (default: `flixgen`) to filter through thousands of Netflix genres. ↩ to open in the default web browser.
 
 ![Alfred search for flixgen animat](Workflow/images/about/flixgenanimat.png)
 
