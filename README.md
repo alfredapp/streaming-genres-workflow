@@ -2,10 +2,10 @@
 
 Filter through thousands of Netflix genres
 
-<a href='https://github.com/alfredapp/streaming-genres-workflow/releases/latest/download/Streaming.Genres.alfredworkflow'>⤓ Download Workflow</a>
+<a href='https://alfred.app/workflows/alfredapp/streaming-genres'>⤓ Install on the Alfred Gallery</a>
 
 ## Usage
 
-Run the Genres Keyword (default: `flixgen`) to filter through thousands of Netflix genres. <kbd>⏎</kbd> to open in the default web browser.
+Search through thousands of Netflix genres via the Genres Keyword (default: `flixgen`). <kbd>⏎</kbd> to open in the default web browser.
 
 ![Alfred search for flixgen animat](Workflow/images/about/flixgenanimat.png)
