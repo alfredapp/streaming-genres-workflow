@@ -88,7 +88,7 @@
 	<key>readme</key>
 	<string>## Usage
 
-Search through thousands of Netflix genres via the Genres Keyword (default: `flixgen`). &lt;kbd&gt;↩&lt;/kbd&gt; to open in the default web browser.
+Search through thousands of Netflix genres via the `flixgen` keyword. &lt;kbd&gt;↩&lt;/kbd&gt; to open in the default web browser.
 
 ![Alfred search for flixgen animat](images/about/flixgenanimat.png)</string>
 	<key>uidata</key>
