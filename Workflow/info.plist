@@ -137,7 +137,7 @@ Search through thousands of Netflix genres via the `flixgen` keyword. &lt;kbd&gt
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2023.1</string>
+	<string>2024.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/streaming-genres-workflow/</string>
 </dict>
